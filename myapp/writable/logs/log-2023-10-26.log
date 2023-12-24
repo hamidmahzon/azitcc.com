@@ -1,0 +1,205 @@
+INFO - 2023-10-26 07:03:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 07:03:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 07:04:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 07:05:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 07:05:13 --> CSRF token verified.
+INFO - 2023-10-26 07:05:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 07:05:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 09:35:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-10-26 09:35:31 --> Undefined variable $abouts
+in APPPATH\Views\home\home.php on line 60.
+ 1 APPPATH\Views\home\home.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $abouts', 'APPPATH\\Views\\home\\home.php', 60)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\home\\home.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('home/home', [], true)
+ 5 APPPATH\Controllers\HomeController.php(16): view('home/home', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\HomeController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-10-26 09:35:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-10-26 09:35:40 --> Undefined variable $abouts
+in APPPATH\Views\home\home.php on line 60.
+ 1 APPPATH\Views\home\home.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $abouts', 'APPPATH\\Views\\home\\home.php', 60)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\home\\home.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('home/home', [], true)
+ 5 APPPATH\Controllers\HomeController.php(16): view('home/home', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\HomeController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-10-26 09:36:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-10-26 09:36:07 --> Undefined variable $abouts
+in APPPATH\Views\home\home.php on line 60.
+ 1 APPPATH\Views\home\home.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $abouts', 'APPPATH\\Views\\home\\home.php', 60)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\home\\home.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('home/home', [], true)
+ 5 APPPATH\Controllers\HomeController.php(16): view('home/home', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\HomeController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-10-26 09:36:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-10-26 09:36:17 --> Undefined variable $abouts
+in APPPATH\Views\home\home.php on line 60.
+ 1 APPPATH\Views\home\home.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $abouts', 'APPPATH\\Views\\home\\home.php', 60)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\home\\home.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('home/home', [], true)
+ 5 APPPATH\Controllers\HomeController.php(16): view('home/home', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\HomeController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-10-26 09:37:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-10-26 09:37:36 --> Undefined variable $abouts
+in APPPATH\Views\home\home.php on line 60.
+ 1 APPPATH\Views\home\home.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $abouts', 'APPPATH\\Views\\home\\home.php', 60)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\home\\home.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('home/home', [], true)
+ 5 APPPATH\Controllers\HomeController.php(16): view('home/home', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\HomeController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-10-26 09:37:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-10-26 09:37:57 --> Undefined variable $abouts
+in APPPATH\Views\home\home.php on line 60.
+ 1 APPPATH\Views\home\home.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $abouts', 'APPPATH\\Views\\home\\home.php', 60)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\home\\home.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('home/home', [], true)
+ 5 APPPATH\Controllers\HomeController.php(16): view('home/home', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\HomeController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-10-26 09:38:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-10-26 09:38:06 --> Undefined variable $abouts
+in APPPATH\Views\home\home.php on line 60.
+ 1 APPPATH\Views\home\home.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $abouts', 'APPPATH\\Views\\home\\home.php', 60)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\home\\home.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('home/home', [], true)
+ 5 APPPATH\Controllers\HomeController.php(16): view('home/home', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\HomeController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-10-26 09:38:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-10-26 09:38:16 --> Undefined variable $abouts
+in APPPATH\Views\home\home.php on line 60.
+ 1 APPPATH\Views\home\home.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $abouts', 'APPPATH\\Views\\home\\home.php', 60)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\home\\home.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('home/home', [], true)
+ 5 APPPATH\Controllers\HomeController.php(16): view('home/home', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\HomeController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-10-26 09:38:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-10-26 09:38:26 --> Undefined variable $abouts
+in APPPATH\Views\home\home.php on line 60.
+ 1 APPPATH\Views\home\home.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $abouts', 'APPPATH\\Views\\home\\home.php', 60)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\home\\home.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('home/home', [], true)
+ 5 APPPATH\Controllers\HomeController.php(16): view('home/home', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\HomeController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-10-26 09:38:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-10-26 09:38:34 --> Undefined variable $abouts
+in APPPATH\Views\home\home.php on line 60.
+ 1 APPPATH\Views\home\home.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $abouts', 'APPPATH\\Views\\home\\home.php', 60)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\home\\home.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('home/home', [], true)
+ 5 APPPATH\Controllers\HomeController.php(16): view('home/home', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\HomeController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-10-26 09:38:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-10-26 09:38:40 --> Undefined variable $abouts
+in APPPATH\Views\home\home.php on line 60.
+ 1 APPPATH\Views\home\home.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $abouts', 'APPPATH\\Views\\home\\home.php', 60)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\home\\home.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('home/home', [], true)
+ 5 APPPATH\Controllers\HomeController.php(16): view('home/home', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\HomeController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-10-26 09:39:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-10-26 09:39:12 --> Undefined variable $abouts
+in APPPATH\Views\home\home.php on line 60.
+ 1 APPPATH\Views\home\home.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $abouts', 'APPPATH\\Views\\home\\home.php', 60)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\home\\home.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('home/home', [], true)
+ 5 APPPATH\Controllers\HomeController.php(16): view('home/home', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\HomeController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-10-26 09:39:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-10-26 09:39:59 --> Undefined variable $abouts
+in APPPATH\Views\home\home.php on line 60.
+ 1 APPPATH\Views\home\home.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $abouts', 'APPPATH\\Views\\home\\home.php', 60)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\home\\home.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('home/home', [], true)
+ 5 APPPATH\Controllers\HomeController.php(16): view('home/home', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\HomeController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-10-26 09:40:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 09:40:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 09:41:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 09:41:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 09:41:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 09:41:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 09:42:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 09:42:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 09:42:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 09:42:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 09:43:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 09:43:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 09:44:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 09:44:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 09:45:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 09:45:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 09:55:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 09:55:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 09:56:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 09:56:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 09:57:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 09:57:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 09:57:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 09:57:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 09:57:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 09:57:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 09:59:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 09:59:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 10:03:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 10:03:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 10:04:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 10:04:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 10:05:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 10:05:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 10:05:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 10:05:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 10:07:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 10:07:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 10:08:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 10:08:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 10:08:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-26 10:08:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
